@@ -1,0 +1,12 @@
+#Warm-up Assignment Exercise #1
+#February 24, 2022
+#Instructions:
+#In the provided snippet of code, Is there an error? If so, how would you try to fix the error?
+#Remember to include professional comments to detail your programming problem-solving skills.
+
+# Ryan Stauffer 2/24 Warmup
+# Looks like it is meant to print Hello World Backwards
+# Change 0 to -1
+
+txt = "Hello World"[::-1]
+print(txt)
